@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "WaittestonRepository",
+				"name": "WaittestonRepositoryagain",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
