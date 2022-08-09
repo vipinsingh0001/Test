@@ -1,0 +1,9 @@
+{
+	"name": "demoforbata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f44865d-0e9e-4fdf-9366-357b2c82a6b3",
+		"tenantId": "b8c9d1a8-3867-483e-810f-09a0b03e902b"
+	}
+}
